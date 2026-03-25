@@ -180,3 +180,7 @@ Estrutura escalável para crescimento da aplicação
 ## Licença
 
 Este projeto está sob a licença ISC.
+
+## Equipe de Desenvolvimento 👩🏻‍💻
+
+Projeto desenvolvido com a ajuda surreal de [Nazaré Almeida](https://github.com/nazare4lmeida) e disciplina e persistência de Juliett Figueirêdo
