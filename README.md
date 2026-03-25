@@ -1,4 +1,4 @@
-# Backend API - Project Root
+# Projeto de BackEnd GTech 3.0
 
 ## Descrição
 
